@@ -1,0 +1,1 @@
+# Auto-Typing-Animation-Using-JavaScript
